@@ -1,6 +1,6 @@
 # GSK_analysis
-## Xiaonan Wang
-## 26May2020
+### Xiaonan Wang
+### 26May2020
 ## Summary: Data analysis of the GSK project
 
 ## Introduction 
