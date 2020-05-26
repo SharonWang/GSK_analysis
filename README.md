@@ -15,7 +15,7 @@ Two reference datasets were used for data projection:
 ## Notebooks
 This folder contains all jupyter notebooks that were used for the data analysis. To run the notebooks, the Smart-Seq2 preprocessng package would need to be installed first as
 
-  pip install smqpp
+    pip install smqpp
   
 The analysis include:
   - <ins>**[CBdata_all](https://github.com/SharonWang/GSK_analysis/blob/master/Notebooks/CBdata_all.ipynb)**</ins>: Analysis of Cord blood data to generate visualisation layouts as references for projection.
