@@ -6,7 +6,7 @@
 ## Introduction 
 The analysis was done following the strategy below:
 
-<p align="center"><img src="figures/schematic_view.png" alt="KNN" width="50%"></p>
+<p align="center"><img src="figures/schematic_view.png" alt="schematic" width="50%"></p>
 
 Two reference datasets were used for data projection:
   1. Cord blood dataset (Unpublished)
