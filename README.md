@@ -10,7 +10,7 @@ The analysis was done following the strategy below:
 
 Two reference datasets were used for data projection:
   1. Cord blood dataset (Unpublished)
-  2. Kuffman dataset (Unpublished)
+  2. [Kuffman dataset](https://github.com/andygxzeng/HSC_Pseudotime/blob/master/scRNA_HSC_denoising.ipynb) (Unpublished)
 
 ## Notebooks
 This folder contains all jupyter notebooks that were used for the data analysis. To run the notebooks, the Smart-Seq2 preprocessng package would need to be installed first as
